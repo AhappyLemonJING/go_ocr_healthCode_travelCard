@@ -1,0 +1,4 @@
+OcrConf:
+  Endpoint: ocr.tencentcloudapi.com
+  Region: ap-shanghai
+  
